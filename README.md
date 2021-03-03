@@ -3,7 +3,7 @@ Simple Docker installation automating the [guide](https://github.com/pablokbs/pe
 To run installation simply run:
 ```sh
 sudo apt update && sudo apt upgrade
-git clone https://github.com/Quik-e/Shell-Scripts.git
+git clone https://github.com/Quik-e/Docker-Installation.git
 chmod +x Shell-Scripts/docker-installation/docker-installation.sh
 ./Shell-Scripts/docker-installation/docker-installation.sh
 mv Shell-Scripts /tmp/
